@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\grayson\source\repos\graysonbeam_cpp_homework_7\graysonbeam_cpp_homework_7\main.cpp(15): error C2039: 'print': is not a member of 'boot::priority_queue<int>'
+  c:\users\grayson\source\repos\graysonbeam_cpp_homework_7\graysonbeam_cpp_homework_7\main.cpp(9): note: see declaration of 'boot::priority_queue<int>'
